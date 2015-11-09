@@ -1,0 +1,957 @@
+La list des cases
+INFORMATIONS de [TerrainVague]
+NOM = [TerrainVague 25] a (0, 0)
+Niveau de contamination = [0.0]
+Capacite = [5]
+
+INFORMATIONS de [TerrainVague]
+NOM = [TerrainVague 0] a (0, 1)
+Niveau de contamination = [0.21600000000000003]
+Capacite = [6]
+
+INFORMATIONS de [Maison]
+NOM = [Maison 6] a (0, 2)
+Niveau de contamination = [0.0]
+Capacite = [3]
+
+INFORMATIONS de [TerrainVague]
+NOM = [TerrainVague 24] a (0, 3)
+Niveau de contamination = [0.0]
+Capacite = [9]
+
+INFORMATIONS de [Maison]
+NOM = [Maison 10] a (0, 4)
+Niveau de contamination = [0.0]
+Capacite = [5]
+
+INFORMATIONS de [TerrainVague]
+NOM = [TerrainVague 3] a (0, 5)
+Niveau de contamination = [0.0]
+Capacite = [15]
+
+INFORMATIONS de [Caserne]
+NOM = [Caserne Sud-Ouest] a (0, 6)
+Niveau de contamination = [0.0]
+Capacite = [7]
+
+INFORMATIONS de [TerrainVague]
+NOM = [TerrainVague 15] a (1, 0)
+Niveau de contamination = [0.0]
+Capacite = [12]
+
+INFORMATIONS de [Maison]
+NOM = [Maison 4] a (1, 1)
+Niveau de contamination = [0.0]
+Capacite = [4]
+
+INFORMATIONS de [TerrainVague]
+NOM = [TerrainVague 16] a (1, 2)
+Niveau de contamination = [0.0]
+Capacite = [15]
+
+INFORMATIONS de [TerrainVague]
+NOM = [TerrainVague 22] a (1, 3)
+Niveau de contamination = [0.0]
+Capacite = [12]
+
+INFORMATIONS de [TerrainVague]
+NOM = [TerrainVague 18] a (1, 4)
+Niveau de contamination = [0.0]
+Capacite = [14]
+
+INFORMATIONS de [Maison]
+NOM = [Maison 8] a (1, 5)
+Niveau de contamination = [0.0]
+Capacite = [3]
+
+INFORMATIONS de [TerrainVague]
+NOM = [TerrainVague 27] a (1, 6)
+Niveau de contamination = [0.0]
+Capacite = [13]
+
+INFORMATIONS de [TerrainVague]
+NOM = [TerrainVague 11] a (2, 0)
+Niveau de contamination = [0.0]
+Capacite = [4]
+
+INFORMATIONS de [TerrainVague]
+NOM = [TerrainVague 26] a (2, 1)
+Niveau de contamination = [0.0]
+Capacite = [4]
+
+INFORMATIONS de [Maison]
+NOM = [Maison 1] a (2, 2)
+Niveau de contamination = [0.0]
+Capacite = [5]
+
+INFORMATIONS de [Maison]
+NOM = [Maison 7] a (2, 3)
+Niveau de contamination = [0.0]
+Capacite = [6]
+
+INFORMATIONS de [TerrainVague]
+NOM = [TerrainVague 28] a (2, 4)
+Niveau de contamination = [0.0]
+Capacite = [4]
+
+INFORMATIONS de [Maison]
+NOM = [Maison 9] a (2, 5)
+Niveau de contamination = [0.0]
+Capacite = [5]
+
+INFORMATIONS de [TerrainVague]
+NOM = [TerrainVague 2] a (2, 6)
+Niveau de contamination = [0.21799999999999997]
+Capacite = [16]
+
+INFORMATIONS de [TerrainVague]
+NOM = [TerrainVague 13] a (3, 0)
+Niveau de contamination = [0.0]
+Capacite = [13]
+
+INFORMATIONS de [TerrainVague]
+NOM = [TerrainVague 12] a (3, 1)
+Niveau de contamination = [0.0]
+Capacite = [16]
+
+INFORMATIONS de [TerrainVague]
+NOM = [TerrainVague 23] a (3, 2)
+Niveau de contamination = [0.0]
+Capacite = [10]
+
+INFORMATIONS de [Hopital]
+NOM = [CHU de Caen] a (3, 3)
+Niveau de contamination = [0.0]
+Capacite = [12]
+
+INFORMATIONS de [TerrainVague]
+NOM = [TerrainVague 10] a (3, 4)
+Niveau de contamination = [0.0]
+Capacite = [10]
+
+INFORMATIONS de [TerrainVague]
+NOM = [TerrainVague 9] a (3, 5)
+Niveau de contamination = [0.0]
+Capacite = [11]
+
+INFORMATIONS de [Maison]
+NOM = [Maison 5] a (3, 6)
+Niveau de contamination = [0.0]
+Capacite = [6]
+
+INFORMATIONS de [TerrainVague]
+NOM = [TerrainVague 29] a (4, 0)
+Niveau de contamination = [0.0]
+Capacite = [16]
+
+INFORMATIONS de [TerrainVague]
+NOM = [TerrainVague 7] a (4, 1)
+Niveau de contamination = [0.0]
+Capacite = [11]
+
+INFORMATIONS de [Maison]
+NOM = [Maison 11] a (4, 2)
+Niveau de contamination = [0.0]
+Capacite = [4]
+
+INFORMATIONS de [TerrainVague]
+NOM = [TerrainVague 1] a (4, 3)
+Niveau de contamination = [0.369]
+Capacite = [7]
+
+INFORMATIONS de [TerrainVague]
+NOM = [TerrainVague 8] a (4, 4)
+Niveau de contamination = [0.0]
+Capacite = [5]
+
+INFORMATIONS de [TerrainVague]
+NOM = [TerrainVague 31] a (4, 5)
+Niveau de contamination = [0.0]
+Capacite = [13]
+
+INFORMATIONS de [TerrainVague]
+NOM = [TerrainVague 6] a (4, 6)
+Niveau de contamination = [0.0]
+Capacite = [9]
+
+INFORMATIONS de [Maison]
+NOM = [Maison 0] a (5, 0)
+Niveau de contamination = [0.0]
+Capacite = [5]
+
+INFORMATIONS de [TerrainVague]
+NOM = [TerrainVague 33] a (5, 1)
+Niveau de contamination = [0.0]
+Capacite = [16]
+
+INFORMATIONS de [TerrainVague]
+NOM = [TerrainVague 17] a (5, 2)
+Niveau de contamination = [0.0]
+Capacite = [9]
+
+INFORMATIONS de [TerrainVague]
+NOM = [TerrainVague 20] a (5, 3)
+Niveau de contamination = [0.0]
+Capacite = [8]
+
+INFORMATIONS de [TerrainVague]
+NOM = [TerrainVague 30] a (5, 4)
+Niveau de contamination = [0.0]
+Capacite = [12]
+
+INFORMATIONS de [TerrainVague]
+NOM = [TerrainVague 5] a (5, 5)
+Niveau de contamination = [0.0]
+Capacite = [16]
+
+INFORMATIONS de [TerrainVague]
+NOM = [TerrainVague 21] a (5, 6)
+Niveau de contamination = [0.0]
+Capacite = [13]
+
+INFORMATIONS de [Caserne]
+NOM = [Caserne Nord-Est] a (6, 0)
+Niveau de contamination = [0.0]
+Capacite = [4]
+
+INFORMATIONS de [TerrainVague]
+NOM = [TerrainVague 14] a (6, 1)
+Niveau de contamination = [0.0]
+Capacite = [8]
+
+INFORMATIONS de [TerrainVague]
+NOM = [TerrainVague 4] a (6, 2)
+Niveau de contamination = [0.0]
+Capacite = [7]
+
+INFORMATIONS de [TerrainVague]
+NOM = [TerrainVague 32] a (6, 3)
+Niveau de contamination = [0.0]
+Capacite = [10]
+
+INFORMATIONS de [Maison]
+NOM = [Maison 2] a (6, 4)
+Niveau de contamination = [0.0]
+Capacite = [5]
+
+INFORMATIONS de [TerrainVague]
+NOM = [TerrainVague 19] a (6, 5)
+Niveau de contamination = [0.0]
+Capacite = [11]
+
+INFORMATIONS de [Maison]
+NOM = [Maison 3] a (6, 6)
+Niveau de contamination = [0.0]
+Capacite = [3]
+
+
+
+La liste des citoyens
+Medecin [Medecin 0] a (3, 1)
+Niveau de contamination = [0.401]
+La risque de maladie = [0.401]
+La proba de transmettre le virus = [0.0]
+Le nbre des jours gueris = [0]
+Le nbre des jours malades = [0]
+La risque de mortalite = [0.0]
+L'etat de mortalite = [NON]
+L'existence = [OUI]
+Le nbre de kits = [0]
+
+Medecin [Medecin 1] a (3, 0)
+Niveau de contamination = [0.86]
+La risque de maladie = [0.86]
+La proba de transmettre le virus = [0.0]
+Le nbre des jours gueris = [0]
+Le nbre des jours malades = [0]
+La risque de mortalite = [0.0]
+L'etat de mortalite = [NON]
+L'existence = [OUI]
+Le nbre de kits = [0]
+
+Medecin [Medecin 2] a (5, 1)
+Niveau de contamination = [0.893]
+La risque de maladie = [0.893]
+La proba de transmettre le virus = [0.0]
+Le nbre des jours gueris = [0]
+Le nbre des jours malades = [0]
+La risque de mortalite = [0.0]
+L'etat de mortalite = [NON]
+L'existence = [OUI]
+Le nbre de kits = [0]
+
+Medecin [Medecin 3] a (6, 2)
+Niveau de contamination = [0.043]
+La risque de maladie = [0.043]
+La proba de transmettre le virus = [0.0]
+Le nbre des jours gueris = [0]
+Le nbre des jours malades = [0]
+La risque de mortalite = [0.0]
+L'etat de mortalite = [NON]
+L'existence = [OUI]
+Le nbre de kits = [0]
+
+Medecin [Medecin 4] a (2, 4)
+Niveau de contamination = [0.449]
+La risque de maladie = [0.449]
+La proba de transmettre le virus = [0.0]
+Le nbre des jours gueris = [0]
+Le nbre des jours malades = [0]
+La risque de mortalite = [0.0]
+L'etat de mortalite = [NON]
+L'existence = [OUI]
+Le nbre de kits = [0]
+
+Medecin [Medecin 5] a (0, 1)
+Niveau de contamination = [0.065]
+La risque de maladie = [0.065]
+La proba de transmettre le virus = [0.0]
+Le nbre des jours gueris = [0]
+Le nbre des jours malades = [0]
+La risque de mortalite = [0.0]
+L'etat de mortalite = [NON]
+L'existence = [OUI]
+Le nbre de kits = [0]
+
+Medecin [Medecin 6] a (4, 6)
+Niveau de contamination = [0.464]
+La risque de maladie = [0.464]
+La proba de transmettre le virus = [0.0]
+Le nbre des jours gueris = [0]
+Le nbre des jours malades = [0]
+La risque de mortalite = [0.0]
+L'etat de mortalite = [NON]
+L'existence = [OUI]
+Le nbre de kits = [0]
+
+Medecin [Medecin 7] a (0, 1)
+Niveau de contamination = [0.881]
+La risque de maladie = [0.881]
+La proba de transmettre le virus = [0.0]
+Le nbre des jours gueris = [0]
+Le nbre des jours malades = [0]
+La risque de mortalite = [0.0]
+L'etat de mortalite = [NON]
+L'existence = [OUI]
+Le nbre de kits = [0]
+
+Pompier [Pompier 8] a (2, 0)
+Niveau de contamination = [0.807]
+La risque de maladie = [0.807]
+La proba de transmettre le virus = [0.0]
+Le nbre des jours gueris = [0]
+Le nbre des jours malades = [0]
+La risque de mortalite = [0.0]
+L'etat de mortalite = [NON]
+L'existence = [OUI]
+
+Pompier [Pompier 9] a (2, 5)
+Niveau de contamination = [0.028]
+La risque de maladie = [0.028]
+La proba de transmettre le virus = [0.0]
+Le nbre des jours gueris = [0]
+Le nbre des jours malades = [0]
+La risque de mortalite = [0.0]
+L'etat de mortalite = [NON]
+L'existence = [OUI]
+
+Pompier [Pompier 10] a (2, 2)
+Niveau de contamination = [0.026]
+La risque de maladie = [0.026]
+La proba de transmettre le virus = [0.0]
+Le nbre des jours gueris = [0]
+Le nbre des jours malades = [0]
+La risque de mortalite = [0.0]
+L'etat de mortalite = [NON]
+L'existence = [OUI]
+
+Pompier [Pompier 11] a (3, 3)
+Niveau de contamination = [0.828]
+La risque de maladie = [0.828]
+La proba de transmettre le virus = [0.0]
+Le nbre des jours gueris = [0]
+Le nbre des jours malades = [0]
+La risque de mortalite = [0.0]
+L'etat de mortalite = [NON]
+L'existence = [OUI]
+
+Pompier [Pompier 12] a (5, 4)
+Niveau de contamination = [0.322]
+La risque de maladie = [0.322]
+La proba de transmettre le virus = [0.0]
+Le nbre des jours gueris = [0]
+Le nbre des jours malades = [0]
+La risque de mortalite = [0.0]
+L'etat de mortalite = [NON]
+L'existence = [OUI]
+
+Pompier [Pompier 13] a (0, 0)
+Niveau de contamination = [0.465]
+La risque de maladie = [0.465]
+La proba de transmettre le virus = [0.0]
+Le nbre des jours gueris = [0]
+Le nbre des jours malades = [0]
+La risque de mortalite = [0.0]
+L'etat de mortalite = [NON]
+L'existence = [OUI]
+
+Pompier [Pompier 14] a (4, 4)
+Niveau de contamination = [0.233]
+La risque de maladie = [0.233]
+La proba de transmettre le virus = [0.0]
+Le nbre des jours gueris = [0]
+Le nbre des jours malades = [0]
+La risque de mortalite = [0.0]
+L'etat de mortalite = [NON]
+L'existence = [OUI]
+
+Pompier [Pompier 15] a (0, 0)
+Niveau de contamination = [0.831]
+La risque de maladie = [0.831]
+La proba de transmettre le virus = [0.0]
+Le nbre des jours gueris = [0]
+Le nbre des jours malades = [0]
+La risque de mortalite = [0.0]
+L'etat de mortalite = [NON]
+L'existence = [OUI]
+
+Pompier [Pompier 16] a (4, 2)
+Niveau de contamination = [0.166]
+La risque de maladie = [0.166]
+La proba de transmettre le virus = [0.0]
+Le nbre des jours gueris = [0]
+Le nbre des jours malades = [0]
+La risque de mortalite = [0.0]
+L'etat de mortalite = [NON]
+L'existence = [OUI]
+
+Pompier [Pompier 17] a (0, 2)
+Niveau de contamination = [0.007]
+La risque de maladie = [0.007]
+La proba de transmettre le virus = [0.0]
+Le nbre des jours gueris = [0]
+Le nbre des jours malades = [0]
+La risque de mortalite = [0.0]
+L'etat de mortalite = [NON]
+L'existence = [OUI]
+
+Pompier [Pompier 18] a (4, 4)
+Niveau de contamination = [0.867]
+La risque de maladie = [0.867]
+La proba de transmettre le virus = [0.0]
+Le nbre des jours gueris = [0]
+Le nbre des jours malades = [0]
+La risque de mortalite = [0.0]
+L'etat de mortalite = [NON]
+L'existence = [OUI]
+
+Pompier [Pompier 19] a (3, 1)
+Niveau de contamination = [0.102]
+La risque de maladie = [0.102]
+La proba de transmettre le virus = [0.0]
+Le nbre des jours gueris = [0]
+Le nbre des jours malades = [0]
+La risque de mortalite = [0.0]
+L'etat de mortalite = [NON]
+L'existence = [OUI]
+
+Citoyen [Simple Citoyens 20] a (0, 2)
+Niveau de contamination = [0.916]
+La risque de maladie = [0.916]
+La proba de transmettre le virus = [0.0]
+Le nbre des jours gueris = [0]
+Le nbre des jours malades = [0]
+La risque de mortalite = [0.0]
+L'etat de mortalite = [NON]
+L'existence = [OUI]
+
+Citoyen [Simple Citoyens 21] a (1, 1)
+Niveau de contamination = [0.96]
+La risque de maladie = [0.96]
+La proba de transmettre le virus = [0.0]
+Le nbre des jours gueris = [0]
+Le nbre des jours malades = [0]
+La risque de mortalite = [0.0]
+L'etat de mortalite = [NON]
+L'existence = [OUI]
+
+Citoyen [Simple Citoyens 22] a (4, 4)
+Niveau de contamination = [0.106]
+La risque de maladie = [0.106]
+La proba de transmettre le virus = [0.0]
+Le nbre des jours gueris = [0]
+Le nbre des jours malades = [0]
+La risque de mortalite = [0.0]
+L'etat de mortalite = [NON]
+L'existence = [OUI]
+
+Citoyen [Simple Citoyens 23] a (2, 6)
+Niveau de contamination = [0.591]
+La risque de maladie = [0.591]
+La proba de transmettre le virus = [0.0]
+Le nbre des jours gueris = [0]
+Le nbre des jours malades = [0]
+La risque de mortalite = [0.0]
+L'etat de mortalite = [NON]
+L'existence = [OUI]
+
+Citoyen [Simple Citoyens 24] a (6, 1)
+Niveau de contamination = [0.105]
+La risque de maladie = [0.105]
+La proba de transmettre le virus = [0.0]
+Le nbre des jours gueris = [0]
+Le nbre des jours malades = [0]
+La risque de mortalite = [0.0]
+L'etat de mortalite = [NON]
+L'existence = [OUI]
+
+Citoyen [Simple Citoyens 25] a (3, 3)
+Niveau de contamination = [0.055]
+La risque de maladie = [0.055]
+La proba de transmettre le virus = [0.0]
+Le nbre des jours gueris = [0]
+Le nbre des jours malades = [0]
+La risque de mortalite = [0.0]
+L'etat de mortalite = [NON]
+L'existence = [OUI]
+
+Citoyen [Simple Citoyens 26] a (1, 1)
+Niveau de contamination = [0.653]
+La risque de maladie = [0.653]
+La proba de transmettre le virus = [0.0]
+Le nbre des jours gueris = [0]
+Le nbre des jours malades = [0]
+La risque de mortalite = [0.0]
+L'etat de mortalite = [NON]
+L'existence = [OUI]
+
+Citoyen [Simple Citoyens 27] a (5, 2)
+Niveau de contamination = [0.432]
+La risque de maladie = [0.432]
+La proba de transmettre le virus = [0.0]
+Le nbre des jours gueris = [0]
+Le nbre des jours malades = [0]
+La risque de mortalite = [0.0]
+L'etat de mortalite = [NON]
+L'existence = [OUI]
+
+Citoyen [Simple Citoyens 28] a (5, 3)
+Niveau de contamination = [0.499]
+La risque de maladie = [0.499]
+La proba de transmettre le virus = [0.0]
+Le nbre des jours gueris = [0]
+Le nbre des jours malades = [0]
+La risque de mortalite = [0.0]
+L'etat de mortalite = [NON]
+L'existence = [OUI]
+
+Citoyen [Simple Citoyens 29] a (3, 0)
+Niveau de contamination = [0.008]
+La risque de maladie = [0.008]
+La proba de transmettre le virus = [0.0]
+Le nbre des jours gueris = [0]
+Le nbre des jours malades = [0]
+La risque de mortalite = [0.0]
+L'etat de mortalite = [NON]
+L'existence = [OUI]
+
+Citoyen [Simple Citoyens 30] a (1, 6)
+Niveau de contamination = [0.453]
+La risque de maladie = [0.453]
+La proba de transmettre le virus = [0.0]
+Le nbre des jours gueris = [0]
+Le nbre des jours malades = [0]
+La risque de mortalite = [0.0]
+L'etat de mortalite = [NON]
+L'existence = [OUI]
+
+Citoyen [Simple Citoyens 31] a (0, 6)
+Niveau de contamination = [0.027]
+La risque de maladie = [0.027]
+La proba de transmettre le virus = [0.0]
+Le nbre des jours gueris = [0]
+Le nbre des jours malades = [0]
+La risque de mortalite = [0.0]
+L'etat de mortalite = [NON]
+L'existence = [OUI]
+
+Citoyen [Simple Citoyens 32] a (2, 3)
+Niveau de contamination = [0.461]
+La risque de maladie = [0.461]
+La proba de transmettre le virus = [0.0]
+Le nbre des jours gueris = [0]
+Le nbre des jours malades = [0]
+La risque de mortalite = [0.0]
+L'etat de mortalite = [NON]
+L'existence = [OUI]
+
+Citoyen [Simple Citoyens 33] a (6, 4)
+Niveau de contamination = [0.832]
+La risque de maladie = [0.832]
+La proba de transmettre le virus = [0.0]
+Le nbre des jours gueris = [0]
+Le nbre des jours malades = [0]
+La risque de mortalite = [0.0]
+L'etat de mortalite = [NON]
+L'existence = [OUI]
+
+Citoyen [Simple Citoyens 34] a (5, 5)
+Niveau de contamination = [0.659]
+La risque de maladie = [0.659]
+La proba de transmettre le virus = [0.0]
+Le nbre des jours gueris = [0]
+Le nbre des jours malades = [0]
+La risque de mortalite = [0.0]
+L'etat de mortalite = [NON]
+L'existence = [OUI]
+
+Citoyen [Simple Citoyens 35] a (6, 5)
+Niveau de contamination = [0.275]
+La risque de maladie = [0.275]
+La proba de transmettre le virus = [0.0]
+Le nbre des jours gueris = [0]
+Le nbre des jours malades = [0]
+La risque de mortalite = [0.0]
+L'etat de mortalite = [NON]
+L'existence = [OUI]
+
+Citoyen [Simple Citoyens 36] a (5, 4)
+Niveau de contamination = [0.423]
+La risque de maladie = [0.423]
+La proba de transmettre le virus = [0.0]
+Le nbre des jours gueris = [0]
+Le nbre des jours malades = [0]
+La risque de mortalite = [0.0]
+L'etat de mortalite = [NON]
+L'existence = [OUI]
+
+Citoyen [Simple Citoyens 37] a (5, 5)
+Niveau de contamination = [0.284]
+La risque de maladie = [0.284]
+La proba de transmettre le virus = [0.0]
+Le nbre des jours gueris = [0]
+Le nbre des jours malades = [0]
+La risque de mortalite = [0.0]
+L'etat de mortalite = [NON]
+L'existence = [OUI]
+
+Citoyen [Simple Citoyens 38] a (3, 2)
+Niveau de contamination = [0.83]
+La risque de maladie = [0.83]
+La proba de transmettre le virus = [0.0]
+Le nbre des jours gueris = [0]
+Le nbre des jours malades = [0]
+La risque de mortalite = [0.0]
+L'etat de mortalite = [NON]
+L'existence = [OUI]
+
+Citoyen [Simple Citoyens 39] a (2, 2)
+Niveau de contamination = [0.685]
+La risque de maladie = [0.685]
+La proba de transmettre le virus = [0.0]
+Le nbre des jours gueris = [0]
+Le nbre des jours malades = [0]
+La risque de mortalite = [0.0]
+L'etat de mortalite = [NON]
+L'existence = [OUI]
+
+Citoyen [Simple Citoyens 40] a (4, 2)
+Niveau de contamination = [0.967]
+La risque de maladie = [0.967]
+La proba de transmettre le virus = [0.0]
+Le nbre des jours gueris = [0]
+Le nbre des jours malades = [0]
+La risque de mortalite = [0.0]
+L'etat de mortalite = [NON]
+L'existence = [OUI]
+
+Citoyen [Simple Citoyens 41] a (2, 4)
+Niveau de contamination = [0.76]
+La risque de maladie = [0.76]
+La proba de transmettre le virus = [0.0]
+Le nbre des jours gueris = [0]
+Le nbre des jours malades = [0]
+La risque de mortalite = [0.0]
+L'etat de mortalite = [NON]
+L'existence = [OUI]
+
+Citoyen [Simple Citoyens 42] a (4, 4)
+Niveau de contamination = [0.488]
+La risque de maladie = [0.488]
+La proba de transmettre le virus = [0.0]
+Le nbre des jours gueris = [0]
+Le nbre des jours malades = [0]
+La risque de mortalite = [0.0]
+L'etat de mortalite = [NON]
+L'existence = [OUI]
+
+Citoyen [Simple Citoyens 43] a (3, 1)
+Niveau de contamination = [0.732]
+La risque de maladie = [0.732]
+La proba de transmettre le virus = [0.0]
+Le nbre des jours gueris = [0]
+Le nbre des jours malades = [0]
+La risque de mortalite = [0.0]
+L'etat de mortalite = [NON]
+L'existence = [OUI]
+
+Citoyen [Simple Citoyens 44] a (0, 0)
+Niveau de contamination = [0.336]
+La risque de maladie = [0.336]
+La proba de transmettre le virus = [0.0]
+Le nbre des jours gueris = [0]
+Le nbre des jours malades = [0]
+La risque de mortalite = [0.0]
+L'etat de mortalite = [NON]
+L'existence = [OUI]
+
+Citoyen [Simple Citoyens 45] a (5, 5)
+Niveau de contamination = [0.544]
+La risque de maladie = [0.544]
+La proba de transmettre le virus = [0.0]
+Le nbre des jours gueris = [0]
+Le nbre des jours malades = [0]
+La risque de mortalite = [0.0]
+L'etat de mortalite = [NON]
+L'existence = [OUI]
+
+Citoyen [Simple Citoyens 46] a (6, 1)
+Niveau de contamination = [0.55]
+La risque de maladie = [0.55]
+La proba de transmettre le virus = [0.0]
+Le nbre des jours gueris = [0]
+Le nbre des jours malades = [0]
+La risque de mortalite = [0.0]
+L'etat de mortalite = [NON]
+L'existence = [OUI]
+
+Citoyen [Simple Citoyens 47] a (6, 4)
+Niveau de contamination = [0.331]
+La risque de maladie = [0.331]
+La proba de transmettre le virus = [0.0]
+Le nbre des jours gueris = [0]
+Le nbre des jours malades = [0]
+La risque de mortalite = [0.0]
+L'etat de mortalite = [NON]
+L'existence = [OUI]
+
+Citoyen [Simple Citoyens 48] a (1, 2)
+Niveau de contamination = [0.757]
+La risque de maladie = [0.757]
+La proba de transmettre le virus = [0.0]
+Le nbre des jours gueris = [0]
+Le nbre des jours malades = [0]
+La risque de mortalite = [0.0]
+L'etat de mortalite = [NON]
+L'existence = [OUI]
+
+Citoyen [Simple Citoyens 49] a (3, 3)
+Niveau de contamination = [0.397]
+La risque de maladie = [0.397]
+La proba de transmettre le virus = [0.0]
+Le nbre des jours gueris = [0]
+Le nbre des jours malades = [0]
+La risque de mortalite = [0.0]
+L'etat de mortalite = [NON]
+L'existence = [OUI]
+
+Citoyen [Simple Citoyens 50] a (2, 0)
+Niveau de contamination = [0.114]
+La risque de maladie = [0.114]
+La proba de transmettre le virus = [0.0]
+Le nbre des jours gueris = [0]
+Le nbre des jours malades = [0]
+La risque de mortalite = [0.0]
+L'etat de mortalite = [NON]
+L'existence = [OUI]
+
+Citoyen [Simple Citoyens 51] a (4, 2)
+Niveau de contamination = [0.646]
+La risque de maladie = [0.646]
+La proba de transmettre le virus = [0.0]
+Le nbre des jours gueris = [0]
+Le nbre des jours malades = [0]
+La risque de mortalite = [0.0]
+L'etat de mortalite = [NON]
+L'existence = [OUI]
+
+Citoyen [Simple Citoyens 52] a (5, 5)
+Niveau de contamination = [0.691]
+La risque de maladie = [0.691]
+La proba de transmettre le virus = [0.0]
+Le nbre des jours gueris = [0]
+Le nbre des jours malades = [0]
+La risque de mortalite = [0.0]
+L'etat de mortalite = [NON]
+L'existence = [OUI]
+
+Citoyen [Simple Citoyens 53] a (5, 5)
+Niveau de contamination = [0.794]
+La risque de maladie = [0.794]
+La proba de transmettre le virus = [0.0]
+Le nbre des jours gueris = [0]
+Le nbre des jours malades = [0]
+La risque de mortalite = [0.0]
+L'etat de mortalite = [NON]
+L'existence = [OUI]
+
+Citoyen [Simple Citoyens 54] a (2, 2)
+Niveau de contamination = [0.149]
+La risque de maladie = [0.149]
+La proba de transmettre le virus = [0.0]
+Le nbre des jours gueris = [0]
+Le nbre des jours malades = [0]
+La risque de mortalite = [0.0]
+L'etat de mortalite = [NON]
+L'existence = [OUI]
+
+Citoyen [Simple Citoyens 55] a (0, 6)
+Niveau de contamination = [0.423]
+La risque de maladie = [0.423]
+La proba de transmettre le virus = [0.0]
+Le nbre des jours gueris = [0]
+Le nbre des jours malades = [0]
+La risque de mortalite = [0.0]
+L'etat de mortalite = [NON]
+L'existence = [OUI]
+
+Citoyen [Simple Citoyens 56] a (3, 3)
+Niveau de contamination = [0.605]
+La risque de maladie = [0.605]
+La proba de transmettre le virus = [0.0]
+Le nbre des jours gueris = [0]
+Le nbre des jours malades = [0]
+La risque de mortalite = [0.0]
+L'etat de mortalite = [NON]
+L'existence = [OUI]
+
+Citoyen [Simple Citoyens 57] a (3, 1)
+Niveau de contamination = [0.295]
+La risque de maladie = [0.295]
+La proba de transmettre le virus = [0.0]
+Le nbre des jours gueris = [0]
+Le nbre des jours malades = [0]
+La risque de mortalite = [0.0]
+L'etat de mortalite = [NON]
+L'existence = [OUI]
+
+Citoyen [Simple Citoyens 58] a (3, 3)
+Niveau de contamination = [0.44]
+La risque de maladie = [0.44]
+La proba de transmettre le virus = [0.0]
+Le nbre des jours gueris = [0]
+Le nbre des jours malades = [0]
+La risque de mortalite = [0.0]
+L'etat de mortalite = [NON]
+L'existence = [OUI]
+
+Citoyen [Simple Citoyens 59] a (5, 3)
+Niveau de contamination = [0.179]
+La risque de maladie = [0.179]
+La proba de transmettre le virus = [0.0]
+Le nbre des jours gueris = [0]
+Le nbre des jours malades = [0]
+La risque de mortalite = [0.0]
+L'etat de mortalite = [NON]
+L'existence = [OUI]
+
+Citoyen [Simple Citoyens 60] a (0, 0)
+Niveau de contamination = [0.942]
+La risque de maladie = [0.942]
+La proba de transmettre le virus = [0.0]
+Le nbre des jours gueris = [0]
+Le nbre des jours malades = [0]
+La risque de mortalite = [0.0]
+L'etat de mortalite = [NON]
+L'existence = [OUI]
+
+Citoyen [Simple Citoyens 61] a (1, 3)
+Niveau de contamination = [0.369]
+La risque de maladie = [0.369]
+La proba de transmettre le virus = [0.0]
+Le nbre des jours gueris = [0]
+Le nbre des jours malades = [0]
+La risque de mortalite = [0.0]
+L'etat de mortalite = [NON]
+L'existence = [OUI]
+
+Citoyen [Simple Citoyens 62] a (1, 6)
+Niveau de contamination = [0.689]
+La risque de maladie = [0.689]
+La proba de transmettre le virus = [0.0]
+Le nbre des jours gueris = [0]
+Le nbre des jours malades = [0]
+La risque de mortalite = [0.0]
+L'etat de mortalite = [NON]
+L'existence = [OUI]
+
+Citoyen [Simple Citoyens 63] a (6, 6)
+Niveau de contamination = [0.123]
+La risque de maladie = [0.123]
+La proba de transmettre le virus = [0.0]
+Le nbre des jours gueris = [0]
+Le nbre des jours malades = [0]
+La risque de mortalite = [0.0]
+L'etat de mortalite = [NON]
+L'existence = [OUI]
+
+Citoyen [Simple Citoyens 64] a (6, 1)
+Niveau de contamination = [0.315]
+La risque de maladie = [0.315]
+La proba de transmettre le virus = [0.0]
+Le nbre des jours gueris = [0]
+Le nbre des jours malades = [0]
+La risque de mortalite = [0.0]
+L'etat de mortalite = [NON]
+L'existence = [OUI]
+
+Citoyen [Simple Citoyens 65] a (3, 2)
+Niveau de contamination = [0.578]
+La risque de maladie = [0.578]
+La proba de transmettre le virus = [0.0]
+Le nbre des jours gueris = [0]
+Le nbre des jours malades = [0]
+La risque de mortalite = [0.0]
+L'etat de mortalite = [NON]
+L'existence = [OUI]
+
+Citoyen [Simple Citoyens 66] a (1, 6)
+Niveau de contamination = [0.82]
+La risque de maladie = [0.82]
+La proba de transmettre le virus = [0.0]
+Le nbre des jours gueris = [0]
+Le nbre des jours malades = [0]
+La risque de mortalite = [0.0]
+L'etat de mortalite = [NON]
+L'existence = [OUI]
+
+Citoyen [Simple Citoyens 67] a (4, 1)
+Niveau de contamination = [0.77]
+La risque de maladie = [0.77]
+La proba de transmettre le virus = [0.0]
+Le nbre des jours gueris = [0]
+Le nbre des jours malades = [0]
+La risque de mortalite = [0.0]
+L'etat de mortalite = [NON]
+L'existence = [OUI]
+
+Citoyen [Simple Citoyens 68] a (6, 6)
+Niveau de contamination = [0.427]
+La risque de maladie = [0.427]
+La proba de transmettre le virus = [0.0]
+Le nbre des jours gueris = [0]
+Le nbre des jours malades = [0]
+La risque de mortalite = [0.0]
+L'etat de mortalite = [NON]
+L'existence = [OUI]
+
+Citoyen [Simple Citoyens 69] a (5, 5)
+Niveau de contamination = [0.573]
+La risque de maladie = [0.573]
+La proba de transmettre le virus = [0.0]
+Le nbre des jours gueris = [0]
+Le nbre des jours malades = [0]
+La risque de mortalite = [0.0]
+L'etat de mortalite = [NON]
+L'existence = [OUI]
+
